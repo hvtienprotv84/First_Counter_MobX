@@ -6,6 +6,9 @@
     <h1>First Counter - MobX - ReactJS</h1>
 </div>
 
+- ReactJS
+- MobX `là State Management (Quản Lý Trạng Thái) giống Redux, Recoil, VueX,... mình đã từng làm`
+
 ## Run
 - `npm install`
 - `npm start`
